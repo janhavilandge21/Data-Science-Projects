@@ -91,6 +91,7 @@ Some high-budget movies didn’t necessarily get higher ratings
 2009 saw the highest number of releases in the dataset
 
 📌 Future Enhancements
+
 Add Machine Learning models to predict ratings
 
 Build an interactive dashboard with Plotly/Streamlit
