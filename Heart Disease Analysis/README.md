@@ -104,10 +104,15 @@ Correlation heatmap of all clinical features
 Pairplots of important numerical features
 
 📊 Sample Visualizations
+
 ✅ Countplots: Frequency of heart disease vs no disease
+
 ✅ Boxplots: Outlier detection for blood pressure, cholesterol
+
 ✅ Heatmap: Feature correlations with target variable
+
 ✅ Pairplot: Visual comparison of multiple risk factors
+
 
 🚀 How to Run
 
