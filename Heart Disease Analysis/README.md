@@ -2,15 +2,20 @@
 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Heart Disease dataset to uncover patterns and correlations between patient health attributes and heart disease risk.
 
-Using Python, Pandas, Seaborn, and Matplotlib, we:
+Using Python, Pandas, Seaborn, and Matplotlib:
+
 ✅ Clean & preprocess the dataset
+
 ✅ Perform univariate, bivariate, and multivariate analysis
+
 ✅ Visualize patterns to understand risk factors for heart disease
+
 ✅ Derive key medical insights that could support early diagnosis
 
 🏗️ Project Architecture
 
 Raw Data → Data Cleaning → EDA → Visualization → Insights
+
 Step 1: Load dataset & understand structure
 
 Step 2: Clean & preprocess data
@@ -30,21 +35,36 @@ Target: 1 (presence of heart disease) / 0 (no heart disease)
 
 Column	Description
 age	Patient age
+
 sex	Gender (1 = Male, 0 = Female)
+
 cp	Chest pain type
+
 trestbps	Resting blood pressure (mm Hg)
+
 chol	Serum cholesterol (mg/dl)
+
 fbs	Fasting blood sugar > 120 mg/dl
+
 restecg	Resting ECG results
+
 thalach	Max heart rate achieved
+
 exang	Exercise-induced angina
+
 oldpeak	ST depression induced by exercise
+
 slope	Slope of peak exercise ST segment
+
 ca	Number of major vessels colored by fluoroscopy
+
 thal	Thalassemia (3 = normal, 6 = fixed defect, 7 = reversible defect)
+
 target	1 = heart disease, 0 = no heart disease
 
+
 ✅ No missing values
+
 ✅ Balanced target distribution (165 with disease, 138 without)
 
 🛠️ Tech Stack
