@@ -116,6 +116,7 @@ High potential correlates strongly with high overall ratings
 Messi, Ronaldo, and Neymar top the potential & reputation charts
 
 📌 Future Enhancements
+
 Build ML models to predict player potential
 
 Create an interactive dashboard using Plotly/Streamlit
